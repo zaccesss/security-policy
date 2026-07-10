@@ -6,9 +6,10 @@ This is the security policy for all my projects, software or hardware. I keep th
 
 ## Reporting a vulnerability
 
-If you find a security vulnerability in any of my projects, please report it privately. Do not open a public issue, pull request or discussion for it.
+> [!IMPORTANT]
+> Please report a security problem privately. Do not open a public issue, pull request or discussion for it.
 
-Email contact@isaacadjei.me with:
+If you find a security vulnerability in any of my projects, email contact@isaacadjei.me with:
 
 - a description of the problem,
 - steps to reproduce it or a proof of concept,
