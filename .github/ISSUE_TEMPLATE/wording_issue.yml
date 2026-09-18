@@ -1,0 +1,28 @@
+name: Wording or policy issue
+description: Something in the security policy is unclear, wrong or needs to change
+title: "docs: "
+labels: ["documentation"]
+assignees:
+  - zaccesss
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What
+      description: A short sentence explaining what this issue covers.
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why
+      description: Why does this need changing? What problem does the current wording cause?
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      description: Anything extra - links, related repositories, edge cases to watch for.
+    validations:
+      required: false
