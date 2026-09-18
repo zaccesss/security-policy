@@ -1,0 +1,9 @@
+blank_issues_enabled: false
+
+contact_links:
+  - name: Report a vulnerability
+    url: mailto:contact@isaacadjei.me
+    about: To report an actual vulnerability, email me directly rather than opening a public issue.
+  - name: Prefer the website?
+    url: https://isaacadjei.me/contact
+    about: Reach me through my contact page instead.
