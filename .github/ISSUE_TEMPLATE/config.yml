@@ -2,8 +2,11 @@ blank_issues_enabled: false
 
 contact_links:
   - name: Report a vulnerability
-    url: mailto:contact@isaacadjei.me
+    url: mailto:security@isaacadjei.me
     about: To report an actual vulnerability, email me directly rather than opening a public issue.
   - name: Prefer the website?
     url: https://isaacadjei.me/contact
     about: Reach me through my contact page instead.
+  - name: AI policy
+    url: https://github.com/zaccesss/ai-policy
+    about: How AI may and may not be used in issues and pull requests here.

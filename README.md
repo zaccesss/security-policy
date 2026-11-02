@@ -11,7 +11,7 @@ This is the security policy for all my projects, software or hardware. I keep th
 
 The preferred route is GitHub's private vulnerability reporting. Open the affected repository's **Security** tab and choose **Report a vulnerability**. You can also go straight to `https://github.com/zaccesss/<repo>/security/advisories/new` with the repository's name in place of `<repo>`. For the website, use [the report form for isaacadjei.me](https://github.com/zaccesss/isaacadjei.me/security/advisories/new). Only you and I can see the report, it supports attachments and the fix can be tracked against it.
 
-You can also email contact@isaacadjei.me with the subject line `Security Disclosure`. If email is not convenient, the [contact page](https://isaacadjei.me/contact) works too, though it takes no attachments, so paste any supporting material inline.
+You can also email security@isaacadjei.me with the subject line `Security Disclosure`. This address is only for security reports. If email is not convenient, the [contact page](https://isaacadjei.me/contact) works too, though it takes no attachments, so paste any supporting material inline.
 
 Please include:
 
