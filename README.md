@@ -1,5 +1,8 @@
 # Security Policy
 
+[![Markdown Lint](https://github.com/zaccesss/security-policy/actions/workflows/markdownlint.yml/badge.svg)](https://github.com/zaccesss/security-policy/actions/workflows/markdownlint.yml)
+[![Licence: PolyForm Noncommercial](https://img.shields.io/badge/licence-PolyForm%20Noncommercial-green.svg)](LICENSE)
+
 > A web version of this policy also lives at [isaacadjei.me/security-policy](https://isaacadjei.me/security-policy).
 
 This is the security policy for all my projects, software or hardware. I keep the full version here in one place so every repository can point to it.
